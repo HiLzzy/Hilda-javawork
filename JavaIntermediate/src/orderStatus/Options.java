@@ -1,0 +1,11 @@
+package orderStatus;
+
+public enum Options {
+	PROCESSING,
+	COMPLETED,
+	DECLINED,
+	INTRANSIT,
+	DELIVERED,
+	FEEDBACKCOLLECTED;
+
+}
